@@ -7,11 +7,11 @@
 </p>
 <br/>
 
-## todos
+## TODO:
 
-- Home Page
+- Home Page - Done
   - Kind of like Kahoot main page
-  - Center should have the name "HyperText" and an input bar with "Game PIN" and "Enter" Button
+  - Center should have the name "HyperText" and an input bar with "PIN" and "Enter" Button
 
 - Crawl Display
   - As a user, I can see text animate in a Star Wars style crawl on screen
@@ -20,7 +20,7 @@
 
 - Live Speech to Text
   - As a presenter, I can press a button to start a live speech to text session
-  - As a presenter, my spoken words appear ont he crawl display in real time
+  - As a presenter, my spoken words appear on he crawl display in real time
   - As a presenter, I can stop the transcription and clear the display
 
 - Session & Sharing
